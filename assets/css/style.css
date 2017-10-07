@@ -1,0 +1,37 @@
+body{
+	background: url("https://cdn.wallpapersafari.com/81/15/RY7A42.jpg");
+	font-family: "Spicy+Rice";
+	font-size: 40px;
+	font-weight: bold;
+	color: #4d004d;
+	text-shadow: 2px 2px pink;
+
+}
+
+.crystal-image{
+	width: 300px;
+	height: 300px;
+	padding-left: 25px;
+	padding-right: 25px;
+	margin-left: 50px;
+	margin-right: 25px;
+	
+
+}
+
+.page-header{
+	background-color: white;
+	font-size: 300px;
+	font-weight: bolder;
+	margin-top: 0;
+	text-shadow: 2px 2px #4d004d;
+}
+
+#jem{
+	float: left;
+	text-align: center;
+}
+
+#instructions{
+	text-align: center;
+}
