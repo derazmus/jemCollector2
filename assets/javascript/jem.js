@@ -37,7 +37,7 @@ $(document).ready(function() {
             //*for each interation we will create an imageCrystal
             var imageCrystal = $("<img>");
             imageCrystal.addClass("crystal-image");
-            imageCrystal.attr("src", "http://4.bp.blogspot.com/_xOLjKos6g8Y/TOzwq3WXAvI/AAAAAAAAGns/4ANz-YmId6M/s1600/Jem_by_NickDraw.jpg");
+            imageCrystal.attr("src", "https://4.bp.blogspot.com/_xOLjKos6g8Y/TOzwq3WXAvI/AAAAAAAAGns/4ANz-YmId6M/s1600/Jem_by_NickDraw.jpg");
             imageCrystal.attr("data-crystalvalue", numberOptions[i]);
 
             $("#crystals").append(imageCrystal);
